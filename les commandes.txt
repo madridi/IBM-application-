@@ -1,0 +1,5 @@
+switchshow
+cfgshow
+portStatsShow -i 0-80
+date
+portPerfShow -tx -rx -t 10
